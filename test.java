@@ -5,6 +5,7 @@ public class Test
 		int tableNo = 0;
 		for(int i=1; i <= 5; i++){
 			System.out.println(tableNo + " * " + i + " = " + tableNo *i);
+			System.out.println("some changes");
 		}
 	}
 }
